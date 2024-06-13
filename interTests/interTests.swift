@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import inter
+@testable import Weather
 
 final class interTests: XCTestCase {
 
